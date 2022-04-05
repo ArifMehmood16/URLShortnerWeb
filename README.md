@@ -1,6 +1,9 @@
 # UrlShortner
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4. In this application we can shorten a url. It is connected to the backend that keeps the record of shortened urls and provides data against each url to display in this web project.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4. In this application we can shorten a url. It is connected to the backend that keeps the record of shortened urls and provides data against each url to display in this web project. Features of this web application:
+* Shorten Url
+* Records of Url shortened
+* Records of rach hits against urls(with some other data like device, browers, os. etc)
 
 ## Development server
 
